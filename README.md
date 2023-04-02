@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm Wojtek
-Junior programmer
+I'm Wojtek,junior programmer.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif" width="100"/>

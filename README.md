@@ -15,8 +15,6 @@ I'm Wojtek.
 
 <!--**imthernet/imthernet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on RaspberryPi-raspbian, Variscite-Yocto. 
 - 🌱 I’m currently learning shell scripting to perfection.
 <!--

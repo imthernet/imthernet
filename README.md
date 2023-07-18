@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### :man_technologist: About Me :
-I'm Wojtek,junior programmer.
-
+I'm Wojtek.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif" width="100"/>
@@ -13,13 +12,14 @@ I'm Wojtek,junior programmer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="Rpi" width="40" height="40"/>&nbsp;
 </div>
 
-<!--
+
 **imthernet/imthernet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on RaspberryPi-raspbian, Variscite-Yocto. 
+- 🌱 I’m currently learning shell scripting to perfection.
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
